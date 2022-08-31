@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/technews/static/css/main.4f422f3e.css",
+    "main.js": "/technews/static/js/main.e6a393f3.js",
+    "index.html": "/technews/index.html",
+    "main.4f422f3e.css.map": "/technews/static/css/main.4f422f3e.css.map",
+    "main.e6a393f3.js.map": "/technews/static/js/main.e6a393f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f422f3e.css",
+    "static/js/main.e6a393f3.js"
+  ]
+}
